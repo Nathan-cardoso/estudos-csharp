@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\codigos\c-sharp\introducao\bin\Debug\net8.0\introducao.exe
+C:\Users\natha\Documents\codigos\c-sharp\introducao\bin\Debug\net8.0\introducao.deps.json
+C:\Users\natha\Documents\codigos\c-sharp\introducao\bin\Debug\net8.0\introducao.runtimeconfig.json
+C:\Users\natha\Documents\codigos\c-sharp\introducao\bin\Debug\net8.0\introducao.dll
+C:\Users\natha\Documents\codigos\c-sharp\introducao\bin\Debug\net8.0\introducao.pdb
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.AssemblyInfo.cs
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.sourcelink.json
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.dll
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\refint\introducao.dll
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.pdb
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\introducao.genruntimeconfig.cache
+C:\Users\natha\Documents\codigos\c-sharp\introducao\obj\Debug\net8.0\ref\introducao.dll
